@@ -1,0 +1,8 @@
+export default {
+  TEXT: 'TEXT',
+  TEXT_RIGHT: 'TEXT_RIGHT',
+  NUMBER: 'NUMBER',
+  AVATAR: 'AVATAR',
+  NODE: 'NODE',
+  NODE_RIGHT: 'NODE_RIGHT',
+}

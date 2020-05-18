@@ -1,0 +1,59 @@
+{
+  "name": "arc",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/pro-duotone-svg-icons": "^5.12.1",
+    "@fortawesome/pro-light-svg-icons": "^5.12.1",
+    "@fortawesome/pro-regular-svg-icons": "^5.12.1",
+    "@fortawesome/pro-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
+    "color": "^3.1.2",
+    "firebase": "^7.10.0",
+    "immer": "^5.3.6",
+    "moment": "^2.24.0",
+    "query-string": "^6.11.0",
+    "react": "^16.12.0",
+    "react-dnd": "^10.0.2",
+    "react-dnd-html5-backend": "^10.0.2",
+    "react-dom": "^16.12.0",
+    "react-dropzone": "^10.2.2",
+    "react-measure": "^2.3.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "react-spring": "^8.0.27",
+    "react-to-print": "^2.6.3",
+    "react-uid": "^2.2.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "ress": "^2.0.4",
+    "styled-components": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
